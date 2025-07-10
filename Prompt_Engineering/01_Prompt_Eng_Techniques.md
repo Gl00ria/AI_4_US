@@ -1,36 +1,4 @@
-## What is LLM?
-
-**Large Language Modle** is a machine learning model designed for natural language processing tasks.
-
-## What is Prompt Engineering?
-
-It's the art of designing a high quality prompts to guide the **LLM** to produce an accurate output.
-
-## The effect of Output-Length:
-
-| **Long Output**                    | **Short Output**                                                           |
-| ---------------------------------- | -------------------------------------------------------------------------- |
-| More Computation time from the LLM | Doesn't make the **LLM** to become more stylish                            |
-| Higher Energy                      | Causes the **LLM** to stop consuming more tokens once the limit is reached |
-| Higher Cost                        |                                                                            |
-| Slower Response                    |                                                                            |
-
-Output length restriction is important for some **LLM** techniques like **ReAct (Reasoning Act)** since the **LLM** will keep emitting useless tokens after the response you want.
-
-## Temperature Control (Top-K & Top-P) aka _(Nucleus Sampling)_:
-
-Used to control the degree of randomness in token selection.
-
-- **Lower temp**: good for deterministic response.
-- **Higher temp**: can lead to unexpected response.
-
-**Top-K VS Top-P?** You should experiment the results by yourself
-
-## What is **Repetition Loop Bug**?
-
-It happens when the **LLM** keeps generating the same **(filler words, phrase, sentence structure)**. SO, the clearer your prompt, the better results you get.
-
-## Prompt Techniques/Types:
+#### Prompt Techniques/Types:
 
 1.  _**Zero Shot**_: giving the **LLM** a description of a task to give you something to start with.
 2.  _**One Shot**_: giving the **LLM** 1 example to understand what you are asking for.
@@ -61,7 +29,9 @@ It happens when the **LLM** keeps generating the same **(filler words, phrase, s
 
       **NOTE:** for (Automatic Prompting) evaluation, use **Candidate Screening Methods** like [BLEU](https://en.wikipedia.org/wiki/BLEU) or [ROUGE](<https://en.wikipedia.org/wiki/ROUGE_(metric)>).
 
-## What is the Best Practice for **Prompt Engineering**?
+---
+
+#### What is the Best Practice for **Prompt Engineering**?
 
 1. Provide examples (One-Shot/Few-Shot).
 2. Simplicity (Clear, Concise, Easy to Understand).
@@ -79,6 +49,4 @@ prompt example:
     you are a travel guide, tell me a fact about the city:{ city }
 ```
 
-See [Best Practice](https://github.com/Gl00ria/AI_4_US/blob/main/Prompt_Engineering/best_practice.md) for more details and examples
-
-- [Troubleshooting Guide](https://github.com/Gl00ria/AI_4_US/blob/main/Prompt_Engineering/troubleshooting_guide.md)
+See [Best Practice](https://github.com/Gl00ria/AI_4_US/blob/main/Prompt_Engineering/02_Prompt_Eng_Best_Practice.md) for more details and examples

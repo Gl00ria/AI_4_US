@@ -1,4 +1,4 @@
-### **1. Set the stage (Context):**
+#### **1. Set the stage (Context):**
 
 - Tell the AI who it's talking to.
 - Define the expertise level needed.
@@ -15,7 +15,7 @@
 
 ---
 
-### **2. Define the task (Action):**
+#### **2. Define the task (Action):**
 
 - State exactly what you want.
 - Include specific requirements.
@@ -36,7 +36,7 @@
 
 ---
 
-### **3. Specify the Output (Format):**
+#### **3. Specify the Output (Format):**
 
 - Define the structure.
 - Clarify the Tone & Style.
@@ -53,7 +53,7 @@
 
 ---
 
-### **4. Use Role Assignment:**
+#### **4. Use Role Assignment:**
 
 ###### **Example:**
 
@@ -70,7 +70,7 @@
 
 ---
 
-### **5. Add specific Constraints:**
+#### **5. Add specific Constraints:**
 
 ###### **Example:**
 
@@ -88,7 +88,7 @@
 
 ---
 
-### **6. Request Examples & Variations:**
+#### **6. Request Examples & Variations:**
 
 ###### **Example:**
 
@@ -101,5 +101,3 @@
   >
   > - Optimized for memory efficiency
   > - Optimized for processing speed, include time complexity analysis for each implementation
-
----

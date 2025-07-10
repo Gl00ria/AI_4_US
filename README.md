@@ -23,6 +23,7 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 
 ##### Prompt Engineering:
 
-- [Prompt Engineering](https://github.com/Gl00ria/AI_4_US/tree/main/Prompt_Engineering)
-- [Prompt Engineering > Best Practice](https://github.com/Gl00ria/AI_4_US/blob/main/Prompt_Engineering/best_practice.md)
-- [Prompt Engineering > Troubleshooting Guide](https://github.com/Gl00ria/AI_4_US/blob/main/Prompt_Engineering/troubleshooting_guide.md)
+- [Prompt Engineering](https://github.com/Gl00ria/AI_4_US/blob/main/Prompt_Engineering/00_Prompt_Eng_Def.md)
+- [Prompt Engineering Techniques](https://github.com/Gl00ria/AI_4_US/blob/main/Prompt_Engineering/01_Prompt_Eng_Techniques.md)
+- [Prompt Engineering Best Practice](https://github.com/Gl00ria/AI_4_US/blob/main/Prompt_Engineering/02_Prompt_Eng_Best_Practice.md)
+- [Prompt Engineering Troubleshooting Guide](https://github.com/Gl00ria/AI_4_US/blob/main/Prompt_Engineering/03_Prompt_Eng_Troubleshooting.md)
