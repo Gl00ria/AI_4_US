@@ -8,7 +8,7 @@ My answer was, **It's someone who has more knowledge than you, BUT serves you**.
 
 Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle) we begin.
 
-# Topics:
+# ToC:
 
 ##### Warm Up:
 
