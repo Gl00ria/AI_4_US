@@ -19,11 +19,17 @@
 
 - Contains target labels for supervised learning.
 - Critical for training models to predict outcome.
+- Reliable.
+- Best for real-world applications.
+
+**NOTE:** the trade off is the time & resources spent for labeling data VS model performance.
 
 #### 2. Unlabeled Data:
 
 - No annotations or target output.
 - Used for unsupervised/semi-supervised learning.
+- Quicker.
+- Cheaper.
 
 ---
 
