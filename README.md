@@ -46,7 +46,7 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 ##### Retrieval Augmented Generation (RAG):
 
 - [What is RAG?](https://github.com/Gl00ria/AI_4_US/blob/main/RAG/00_RAG_definition.md)
-- [ ] [Victor Stores OR VictorDB](https://github.com/Gl00ria/AI_4_US/blob/main/RAG/VictorDB.md)
+- [Victor Stores OR VictorDB](https://github.com/Gl00ria/AI_4_US/blob/main/RAG/VictorDB.md)
 - [RAG Stages](https://github.com/Gl00ria/AI_4_US/blob/main/RAG/RAG_Stages.md)
 - [Document loader](https://github.com/Gl00ria/AI_4_US/blob/main/RAG/Doc_loader.md)
 - [Text Splitting/Chunking](https://github.com/Gl00ria/AI_4_US/blob/main/RAG/Txt_Split.md)
@@ -74,31 +74,3 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 - [Python](https://github.com/Gl00ria/AI_4_US/blob/main/Misc/Python.md)
 - [API](https://github.com/Gl00ria/AI_4_US/blob/main/Misc/API.md)
 - [Inference](https://github.com/Gl00ria/AI_4_US/blob/main/Misc/Inference.md)
-
----
-
----
-
----
-
-#### TODO:
-
-- [ ] LLM models. --> Decoder, Encoder, Hybrid
-- [ ] Llama, Qwen, deepseek
-
-###### DB
-
-- [ ] what is vector DB
-- [ ] how it works
-- [ ] available DBs
-
-###### RAG
-
-- [ ] LlamaIndex
-- [ ] LangChain vs LlamaIndex
-
----
-
----
-
----
