@@ -28,4 +28,6 @@ Specialized neural networks designed for processing grid-like data (e.g., images
 
 This one's used in modern **LLMs** like (GPT, Gemini), it handles the sequences without the overhead of **LSTNN**, which enhances the scalability & performance in processing large volumes of text.
 
+**Transformers Pipeline**: The pipeline makes it easy to connect to a **Language Model**, give it input and receive output. [ Input --> Tokenize --> Model --> Post-processing --> Output ]
+
 **NOTE:** this one is the core architecture for LLMs.

@@ -46,11 +46,3 @@
 | Expinsive            | Cost effective   |
 | More computing power | Quicker to train |
 | Effective            |                  |
-
----
-
-#### What is Retrieval Augmented Generation (RAG)?
-
-Enhancing the model's response by integrating an external **database** for the model to query in order to pull additional context or information.
-
-**Why?** to provide richer context for model response, useful for providing detailed knowledge.
