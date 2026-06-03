@@ -8,7 +8,7 @@ My answer was, **It's someone who has more knowledge than you, BUT serves you**.
 
 Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle) we begin.
 
-**BUT!!!** keep in mind, _work with the AI, rather than copying & pasting with your eyes closed_
+**BUT!!!** keep in mind, _work with the AI, rather than copying & pasting with eyes closed
 
 # ToC:
 
@@ -33,6 +33,7 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 - [BERT](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/BERT_Model.md)
 - [XLNeT](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/XLNeT_Model.md)
 - [Huggingface](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/Huggingface.md)
+  - [Python Script To Download A Model](https://github.com/Gl00ria/hf_download)
 
 ---
 
@@ -65,6 +66,16 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 
 ##### Model Context Protocol (MCP):
 - [Introduction to MCP](https://github.com/Gl00ria/AI_4_US/blob/main/MCP/00_Intro.md)
+
+---
+
+##### Tools:
+
+##### Claude:
+- [Research Mode](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/Research_Mode.md)
+- [Enterprise Search](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/Enterprise_Search.md)
+- [Summary](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/Summary.md)
+- [01_Courses](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/01_Courses.md)
 
 ---
 
