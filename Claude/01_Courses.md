@@ -1,2 +1,5 @@
 - [Cladue 101](https://anthropic.skilljar.com/claude-101)
 - [AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations)
+- [Claude code 101](https://anthropic.skilljar.com/claude-code-101)
+- [Introduction to agent skills](https://anthropic.skilljar.com/introduction-to-agent-skills)
+- [Introduction to Claude Cowork](https://anthropic.skilljar.com/introduction-to-claude-cowork)

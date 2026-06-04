@@ -77,6 +77,7 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 - [Research Mode](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/Research_Mode.md)
 - [Enterprise Search](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/Enterprise_Search.md)
 - [Claude Code](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/Claude_Code.md)
+- [Claude Cowork](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/Claude_Cowork.md)
 - [Summary](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/Summary.md)
 - [01_Courses](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/01_Courses.md)
 
