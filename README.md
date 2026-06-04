@@ -17,6 +17,7 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 - [Artificial Intelligence VS Machine Learning](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/00_AI_vs_ML.md)
 - [AI Fluency](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/00_AI_Fluency.md)
 - [AI Types](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/01_AI_Types.md)
+- [AI Agent](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/01_AI_Agent.md)
 - [AI Data Types](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/02_AI_Data_Types.md)
 - [ML Learning Types](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/03_ML_Learning_Types.md)
 - [Neural Network Architecture](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/04_Neural_Network_Architecture.md)
@@ -75,6 +76,7 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 ##### Claude:
 - [Research Mode](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/Research_Mode.md)
 - [Enterprise Search](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/Enterprise_Search.md)
+- [Claude Code](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/Claude_Code.md)
 - [Summary](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/Summary.md)
 - [01_Courses](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/01_Courses.md)
 
