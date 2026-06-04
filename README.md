@@ -15,6 +15,7 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 ##### Warm Up:
 
 - [Artificial Intelligence VS Machine Learning](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/00_AI_vs_ML.md)
+- [AI Fluency](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/00_AI_Fluency.md)
 - [AI Types](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/01_AI_Types.md)
 - [AI Data Types](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/02_AI_Data_Types.md)
 - [ML Learning Types](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/03_ML_Learning_Types.md)
@@ -33,7 +34,7 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 - [BERT](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/BERT_Model.md)
 - [XLNeT](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/XLNeT_Model.md)
 - [Huggingface](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/Huggingface.md)
-  - [Python Script To Download A Model](https://github.com/Gl00ria/hf_download)
+  - [Hugging Face Model Downloader](https://github.com/bodaay/HuggingFaceModelDownloader)
 
 ---
 

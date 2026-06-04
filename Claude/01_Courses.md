@@ -1,0 +1,2 @@
+- [Cladue 101](https://anthropic.skilljar.com/claude-101)
+- [AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations)
