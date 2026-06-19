@@ -1,4 +1,4 @@
-# Intro:
+# Intro
 
 Wheatear we like it or not, AI is the future. Yet, if you keep fighting it you will be left behind. So here I will document anything I pass by related to the AI.
 
@@ -8,11 +8,11 @@ My answer was, **It's someone who has more knowledge than you, BUT serves you**.
 
 Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle) we begin.
 
-**BUT!!!** keep in mind, _work with the AI, rather than copying & pasting with eyes closed
+**BUT!!!** keep in mind, \_work with the AI, rather than copying & pasting with eyes closed
 
-# ToC:
+# ToC
 
-##### Warm Up:
+##### Warm Up
 
 - [Artificial Intelligence VS Machine Learning](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/00_AI_vs_ML.md)
 - [AI Fluency](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/00_AI_Fluency.md)
@@ -28,9 +28,10 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 
 ---
 
-##### LLM Models:
+##### LLM Models
 
 - [Meaning and Features](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/00_Meaning_and_Features.md)
+- [Dense Models](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/Dense_Models.md)
 - [GPT](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/GPT_Model.md)
 - [BERT](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/BERT_Model.md)
 - [XLNeT](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/XLNeT_Model.md)
@@ -39,14 +40,14 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 
 ---
 
-##### Generative AI:
+##### Generative AI
 
 - [Generative AI Definition](https://github.com/Gl00ria/AI_4_US/blob/main/Generative_AI/00_GenAI_Definition.md)
 - [Generative AI Techniques](https://github.com/Gl00ria/AI_4_US/blob/main/Generative_AI/01_GenAI_Techniques.md)
 
 ---
 
-##### Retrieval Augmented Generation (RAG):
+##### Retrieval Augmented Generation (RAG)
 
 - [What is RAG?](https://github.com/Gl00ria/AI_4_US/blob/main/RAG/00_RAG_definition.md)
 - [Victor Stores OR VictorDB](https://github.com/Gl00ria/AI_4_US/blob/main/RAG/VictorDB.md)
@@ -57,7 +58,7 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 
 ---
 
-##### Prompt Engineering:
+##### Prompt Engineering
 
 - [Prompt Engineering](https://github.com/Gl00ria/AI_4_US/blob/main/Prompt_Engineering/00_Prompt_Eng_Def.md)
 - [Prompt Engineering Techniques](https://github.com/Gl00ria/AI_4_US/blob/main/Prompt_Engineering/01_Prompt_Eng_Techniques.md)
@@ -66,14 +67,16 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 
 ---
 
-##### Model Context Protocol (MCP):
+##### Model Context Protocol (MCP)
+
 - [Introduction to MCP](https://github.com/Gl00ria/AI_4_US/blob/main/MCP/00_Intro.md)
 
 ---
 
-##### Tools:
+##### Tools
 
-##### Claude:
+##### Claude
+
 - [Research Mode](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/Research_Mode.md)
 - [Enterprise Search](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/Enterprise_Search.md)
 - [Claude Code](https://github.com/Gl00ria/AI_4_US/blob/main/Claude/Claude_Code.md)
@@ -83,7 +86,7 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 
 ---
 
-##### Misc:
+##### Misc
 
 - [Prompt Engineering VS RAG VS Fine-Tuning](https://github.com/Gl00ria/AI_4_US/blob/main/Misc/PromptEng_RAG_FineTuning.md)
 - [Python](https://github.com/Gl00ria/AI_4_US/blob/main/Misc/Python.md)

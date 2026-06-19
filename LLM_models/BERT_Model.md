@@ -1,13 +1,13 @@
 #### What BERT stands for?
 
-It stands for **B**idirectional **E**ncoder **R**presentations **T**ransformers.
+BERT is a Dense model. It stands for **B**idirectional **E**ncoder **R**presentations **T**ransformers.
 it can generate human like text & can continue the text in a contextually appropriate manner.
 
 #### What is BERT?
 
 A pre-trained Model that uses the [Transformer Architecture](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/04_Neural_Network_Architecture.md) to process and understand Natural Language, by Google '2018'.
 
-#### BERT Types:
+#### BERT Types
 
 **BERT BASE:** has 110 million parameters, with 12 Encoders.
 **BERT LARGE:** has 340 million parameters, with 24 Encoders.
