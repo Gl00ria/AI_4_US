@@ -28,10 +28,11 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 
 ---
 
-##### LLM Models
+##### LLM Models Types/Architectures
 
 - [Meaning and Features](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/00_Meaning_and_Features.md)
 - [Dense Models](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/Dense_Models.md)
+- [Mixture Of Experts _MoE_](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/MoE_Models.md)
 - [GPT](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/GPT_Model.md)
 - [BERT](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/BERT_Model.md)
 - [XLNeT](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/XLNeT_Model.md)
