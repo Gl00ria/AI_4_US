@@ -25,6 +25,7 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 - [Building an LLM](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/05_Building_LLM.md)
 - [AI Challenges](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/06_AI_Challenges.md)
 - [Top-P and Top-K](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/topP_topK.md)
+- [Context Window](https://github.com/Gl00ria/AI_4_US/blob/main/00_Warm_Up/context_windw.md)
 
 ---
 
@@ -34,8 +35,10 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 - [Dense Models](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/Dense_Models.md)
 - [Mixture Of Experts _MoE_](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/MoE_Models.md)
 - [GPT](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/GPT_Model.md)
+- [Multi-Token Prediction _MTP_](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/MTP_Models.md)
 - [BERT](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/BERT_Model.md)
 - [XLNeT](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/XLNeT_Model.md)
+- [Speculative decoding](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/speculative_decoding.md)
 - [Huggingface](https://github.com/Gl00ria/AI_4_US/blob/main/LLM_Models/Huggingface.md)
   - [Hugging Face Model Downloader](https://github.com/bodaay/HuggingFaceModelDownloader)
 
