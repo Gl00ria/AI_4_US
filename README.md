@@ -90,6 +90,18 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 
 ---
 
+##### Hands On Practice
+
+- [Intro to Local AI](https://github.com/Gl00ria/AI_4_US/blob/main/Hands_On_Practice/Intro.md)
+
+---
+
+##### Scripts
+
+- [Calculate Requirements](https://github.com/Gl00ria/AI_4_US/blob/main/scripts/calc_reqs.py): Roughly estimate the GB required to run a model.
+
+---
+
 ##### Misc
 
 - [Prompt Engineering VS RAG VS Fine-Tuning](https://github.com/Gl00ria/AI_4_US/blob/main/Misc/PromptEng_RAG_FineTuning.md)
