@@ -72,6 +72,12 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 
 ---
 
+##### Context Engineering
+
+- [ICM_vs_OKF](https://github.com/Gl00ria/AI_4_US/blob/main/Context_Engineering/ICM_vs_OKF.md)
+
+---
+
 ##### Model Context Protocol (MCP)
 
 - [Introduction to MCP](https://github.com/Gl00ria/AI_4_US/blob/main/MCP/00_Intro.md)
