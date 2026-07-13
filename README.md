@@ -84,7 +84,13 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 
 ---
 
-##### Tools
+##### Hands On Practice
+
+- [Intro to Local AI](https://github.com/Gl00ria/AI_4_US/blob/main/Hands_On_Practice/Intro.md)
+
+---
+
+### Tools
 
 ##### Claude
 
@@ -95,8 +101,6 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 - [Summary](https://github.com/Gl00ria/AI_4_US/blob/main/Tools/Claude/Summary.md)
 - [01_Courses](https://github.com/Gl00ria/AI_4_US/blob/main/Tools/Claude/01_Courses.md)
 
----
-
 ##### [OpenCode](https://opencode.ai/docs/)
 
 - [00_Intro](https://github.com/Gl00ria/AI_4_US/blob/main/Tools/Opencode/00_Intro.md)
@@ -106,12 +110,6 @@ Now, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle
 ##### Skills
 
 - [graphify](https://github.com/Gl00ria/AI_4_US/blob/main/Tools/Skills/tokens_n_performance/graphify.md)
-
----
-
-##### Hands On Practice
-
-- [Intro to Local AI](https://github.com/Gl00ria/AI_4_US/blob/main/Hands_On_Practice/Intro.md)
 
 ---
 
